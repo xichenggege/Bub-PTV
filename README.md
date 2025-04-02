@@ -1,6 +1,6 @@
 # Bub-PTV: Bubble based Particle Tracking Velocimetry
 * This demo code is for [2022 ANS THD Best Paper Award](https://thd.ans.org/awards/bestpaper/) & Best Paper Award in NUTHOS-13 for conference paper [Measurement of velocity induced by steam condensation into a water pool by tracking the motion of bubbles](https://www.researchgate.net/publication/363405940_Measurement_of_velocity_induced_by_steam_condensation_into_a_water_pool_by_tracking_the_motion_of_bubbles)
-* It also refers to two journal publications [**under review**]
+* It also refers to two journal publications that are under review [**paper1**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5193969), [**paper2**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5192406)
 
 ## Introduction
 We introduce an experimental approach to quantification of the velocity field using Bub-PTV in which the streamwise velocity is inferred by stereoscopic tracking of air bubbles entrained by the flow. This demo code is for bubble tracking of the tests using water injection into a water pool intended to verify the setup of the experiment (e.g. air generating system, stereo cameras) and provide databases for code development and validation.
