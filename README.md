@@ -4,7 +4,7 @@
 
 ## Introduction
 We introduce an experimental approach to quantification of the velocity field using Bub-PTV in which the streamwise velocity is inferred by stereoscopic tracking of air bubbles entrained by the flow. This demo code is for bubble tracking of the tests using water injection into a water pool intended to verify the setup of the experiment (e.g. air generating system, stereo cameras) and provide databases for code development and validation.
-![Graphical abstract](./Figures/Picture1.tif?raw=true)
+![Graphical abstract](./Figures/Picture1.jpg?raw=true)
 ## System requirements
 1. The main functions are written in Matlab (version R2022b)
 
